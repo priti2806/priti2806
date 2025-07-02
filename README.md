@@ -41,7 +41,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-E62B1E?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure Synapse Analytics-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
 
 ---
