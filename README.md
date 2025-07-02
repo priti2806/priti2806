@@ -1,19 +1,57 @@
-<h1 align="center">Hi 👋, I'm Priti Mane</h1>
-<h3 align="center">Data Science Aspirant | Data Analyst | BI Developer</h3>
+<h1 align="left">Hi, I'm Priti Mane 👋</h1>
 
-- 🌱 I’m currently learning **AI/ML Technologies**
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 💬 Ask me about **Data Analysis,Business Intelligence,Maths and Statistics,ETL**
+🎯 <em>I am a keen learner and data enthusiast.</em>  
+💡 I love turning raw data into clear insights and scalable solutions.
 
-- 📫 How to reach me **pritimane141615@gmail.com**
+- 💻 <strong>2.5+ years</strong> of experience in the data industry  
+- 📊 Expert in <strong>real-time dashboards</strong> and report development  
+- ⚙️ Skilled in building <strong>end-to-end ETL/ELT pipelines for data extraction,transformation and loading.</strong>  
+- ☁️ Hands-on with <strong>Azure cloud</strong>, <strong>Microsoft Fabric</strong>, and <strong>Power Platform</strong>  
+- 🧠 Strong knowledge of <strong>data modeling/mining/warehousing,Statistical analysis, DAX</strong>, and automation  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/priti-mane-434ba5206/](https://www.linkedin.com/in/priti-mane-434ba5206/)
+</td>
+<td align="center" width="40%">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="250" alt="Tech robot GIF"/>
+</td>
+</tr>
+</table>
 
+---
 
-<p align="left">
-</p>
+## 🧰 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 👨‍💻 Languages  
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priti2806&show_icons=true&locale=en&layout=compact" alt="priti2806" /></p>
+### 📊 BI & Analytics  
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-881798?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+### ☁️ Cloud, ETL & Automation  
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-E62B1E?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-mane-434ba5206/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritimane141615@gmail.com)
+
+---
+
+<p align="center"><i>"Turning raw data into meaningful stories through dashboards, pipelines, and automation."</i></p>
+
