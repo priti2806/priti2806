@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/priti-mane-434ba5206/](https://www.linkedin.com/in/priti-mane-434ba5206/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
