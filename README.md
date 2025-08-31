@@ -8,7 +8,7 @@
 💡 I love turning raw data into clear insights and scalable solutions.
 
 - 💻 <strong>2.6 years</strong> of experience in the data industry  
-- 📊 Expert in <strong>real-time dashboards</strong> and report development, machine learning.  
+- 📊 Expert in <strong>real-time dashboards</strong> and report development and <strong>building machine learning models.<strong>  
 - ⚙️ Skilled in building <strong>end-to-end ETL/ELT pipelines for data extraction,transformation and loading.</strong>  
 - ☁️ Hands-on with <strong>Azure cloud</strong>, <strong>Microsoft Fabric</strong>, and <strong>Power Platform</strong>  
 - 🧠 Strong knowledge of <strong>data modeling/mining/warehousing,Statistical analysis, DAX</strong>, and automation  
