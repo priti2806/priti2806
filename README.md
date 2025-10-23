@@ -10,7 +10,7 @@
 - 📈 Specialized in building <strong>regression and classification models</strong> using algorithms like <strong>Random Forest</strong> and <strong>XGBoost</strong>
 - ⚙️ Skilled in designing <strong>end-to-end AI/ML pipelines</strong> — from data collection and transformation to model training, fine-tuning, and deployment
 - 🧠 Strong foundation in <strong>mathematics, statistics, and data modeling</strong>
-- 🗣️ Hands-on with <strong>NLP and Generative AI</strong> technologies including <strong>PyTorch, TensorFlow, Keras, LLMs, LangChain, ChromaDB, and Llama</strong>
+- 🗣️ Hands-on with <strong>NLP and Generative AI</strong> technologies including <strong>PyTorch, TensorFlow, Keras, LLMs, LangChain, ChromaDB, and Ollama</strong>
 - 📊 Expert in <strong>data visualization</strong> using <strong>Power BI</strong> and <strong>Streamlit</strong>
 - ☁️ Cloud-savvy with experience in <strong>Azure</strong> and <strong>AWS</strong>
 - 🔁 Familiar with <strong>CI/CD practices</strong> for scalable ML deployment
