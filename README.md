@@ -6,7 +6,7 @@
 
 🎯 <em>I am a keen learner and data enthusiast.</em>  
 
-- 💻 <strong>2.9 years</strong> of experience in the data science industry
+- 💻 <strong>3+ years</strong> of experience in the data science industry
 - 📈 Specialized in building <strong>regression and classification models</strong> using algorithms like <strong>Random Forest</strong> and <strong>XGBoost</strong>
 - ⚙️ Skilled in designing <strong>end-to-end AI/ML pipelines</strong> — from data collection and transformation to model training, fine-tuning, and deployment
 - 🧠 Strong foundation in <strong>mathematics, statistics, and data modeling</strong>
